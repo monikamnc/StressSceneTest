@@ -870,7 +870,6 @@ GameObject:
   m_Name: Sphere (1)
 =======
   - component: {fileID: 1680182129}
-  - component: {fileID: 1680182128}
   m_Layer: 0
   m_Name: GameLogic
 >>>>>>> ade0ef1167a29ff5bf57a8207f3a82c68fafa1b5
